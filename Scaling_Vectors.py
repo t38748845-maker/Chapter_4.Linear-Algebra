@@ -1,1 +1,12 @@
-#
+# scaling a number in python using numpy.
+# from numpy import array...
+from numpy import array
+
+# value for vector... 
+v = array([3, 1])
+
+# define formula for scale the vector value by 2... 
+scaled_v = 2 * v
+
+# prints scaled vector value... 
+print(scaled_v)
