@@ -1,1 +1,36 @@
-#
+# declearing vector in python using list... 
+# value for vector...
+v = [3, 2]
+
+# prints vector...
+print(v)
+
+# declearing vector in python using numpy
+# importing numpy as np...
+import numpy as np
+
+# value for vector with using numpy as np.
+v = np.array([3, 2]) 
+
+# prints vector...
+print(v)
+
+# declaring three-dimensional vector in python... 
+# importing numpy as np...
+import numpy as np
+
+# value for vector with using numpy as np.
+v = np.array([4, 1, 2]) 
+
+# prints vector...
+print(v)
+
+# declaring five-dimensional vector in python... 
+# importing numpy as np...
+import numpy as np
+
+# value for vector with using numpy as np.
+v = np.array([6, 1, 5, 8, 3]) 
+
+# prints vector...
+print(v)
